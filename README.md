@@ -14,6 +14,9 @@
 - Scalable Backend Architecture  
 
 ---
+## 📄 My Online Resume:
+[https://rsvkg.github.io/resume/](https://rsvkg.github.io/resume/)
+
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/rsvkg/)
